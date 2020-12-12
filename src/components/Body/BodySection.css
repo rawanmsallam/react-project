@@ -53,8 +53,9 @@
     color: #1c2237;
   }
   
-  .darkBg {
+  .home__body-sectiondarkBG {
     background-color: #1c2237;
+    padding: 160px 0;
   }
   
   .home__body-subtitle {
